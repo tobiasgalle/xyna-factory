@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<licenseSummary>
+  <dependencies>
+    <dependency>
+      <groupId>com.gip.xyna</groupId>
+      <artifactId>xynautils-database</artifactId>
+      <version>3.0.0</version>
+      <licenses>
+        <!-- No license information available. -->
+      </licenses>
+    </dependency>
+    <dependency>
+      <groupId>com.gip.xyna</groupId>
+      <artifactId>xynautils-logging</artifactId>
+      <version>4.0.0</version>
+      <licenses>
+        <!-- No license information available. -->
+      </licenses>
+    </dependency>
+    <dependency>
+      <groupId>com.gip.xyna</groupId>
+      <artifactId>xynautils-snmp</artifactId>
+      <version>4.0.0</version>
+      <licenses>
+        <!-- No license information available. -->
+      </licenses>
+    </dependency>
+    <dependency>
+      <groupId>com.oracle.database.jdbc</groupId>
+      <artifactId>ojdbc10</artifactId>
+      <version>19.17.0.0</version>
+      <licenses>
+        <license>
+          <name>Oracle Free Use Terms and Conditions (FUTC)</name>
+          <url>https://www.oracle.com/downloads/licenses/oracle-free-license.html</url>
+          <file>oracle free use terms and conditions (futc) - oracle-free-license.html</file>
+        </license>
+      </licenses>
+    </dependency>
+    <dependency>
+      <groupId>com.oracle.database.xml</groupId>
+      <artifactId>xdb</artifactId>
+      <version>18.15.0.0</version>
+      <licenses>
+        <license>
+          <name>Oracle Free Use Terms and Conditions (FUTC)</name>
+          <url>https://www.oracle.com/downloads/licenses/oracle-free-license.html</url>
+          <file>oracle free use terms and conditions (futc) - oracle-free-license.html</file>
+        </license>
+      </licenses>
+    </dependency>
+    <dependency>
+      <groupId>com.oracle.database.xml</groupId>
+      <artifactId>xmlparserv2</artifactId>
+      <version>21.8.0.0</version>
+      <licenses>
+        <license>
+          <name>Oracle Free Use Terms and Conditions (FUTC)</name>
+          <url>https://www.oracle.com/downloads/licenses/oracle-free-license.html</url>
+          <file>oracle free use terms and conditions (futc) - oracle-free-license.html</file>
+        </license>
+      </licenses>
+    </dependency>
+    <dependency>
+      <groupId>org.apache.logging.log4j</groupId>
+      <artifactId>log4j-1.2-api</artifactId>
+      <version>2.17.1</version>
+      <licenses>
+        <license>
+          <name>Apache License, Version 2.0</name>
+          <url>https://www.apache.org/licenses/LICENSE-2.0.txt</url>
+          <distribution>repo</distribution>
+          <file>apache license, version 2.0 - license-2.0.txt</file>
+        </license>
+      </licenses>
+    </dependency>
+    <dependency>
+      <groupId>org.apache.logging.log4j</groupId>
+      <artifactId>log4j-api</artifactId>
+      <version>2.17.1</version>
+      <licenses>
+        <license>
+          <name>Apache License, Version 2.0</name>
+          <url>https://www.apache.org/licenses/LICENSE-2.0.txt</url>
+          <distribution>repo</distribution>
+          <file>apache license, version 2.0 - license-2.0.txt</file>
+        </license>
+      </licenses>
+    </dependency>
+    <dependency>
+      <groupId>org.apache.logging.log4j</groupId>
+      <artifactId>log4j-core</artifactId>
+      <version>2.17.1</version>
+      <licenses>
+        <license>
+          <name>Apache License, Version 2.0</name>
+          <url>https://www.apache.org/licenses/LICENSE-2.0.txt</url>
+          <distribution>repo</distribution>
+          <file>apache license, version 2.0 - license-2.0.txt</file>
+        </license>
+      </licenses>
+    </dependency>
+    <dependency>
+      <groupId>org.snmp4j</groupId>
+      <artifactId>snmp4j</artifactId>
+      <version>3.7.7</version>
+      <licenses>
+        <license>
+          <name>Apache 2</name>
+          <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+          <distribution>repo</distribution>
+          <file>apache 2 - license-2.0.txt</file>
+        </license>
+      </licenses>
+    </dependency>
+    <dependency>
+      <groupId>org.snmp4j</groupId>
+      <artifactId>snmp4j-log4j</artifactId>
+      <version>2.8.11</version>
+      <licenses>
+        <license>
+          <name>Apache 2</name>
+          <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+          <distribution>repo</distribution>
+          <file>apache 2 - license-2.0.txt</file>
+        </license>
+      </licenses>
+    </dependency>
+  </dependencies>
+</licenseSummary>

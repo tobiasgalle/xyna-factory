@@ -47,11 +47,6 @@
 			<scope>compile</scope>
 		</dependency>
 		<dependency>
-			<groupId>org.eclipse.jdt</groupId>
-			<artifactId>ecj</artifactId>
-			<scope>compile</scope>
-		</dependency>
-		<dependency>
 			<groupId>org.mindrot</groupId>
 			<artifactId>jbcrypt</artifactId>
 			<scope>compile</scope>
@@ -116,11 +111,6 @@
 		</dependency>
 		<dependency>
 			<groupId>com.gip.xyna</groupId>
-			<artifactId>XynaJavaSerializationPersistenceLayer</artifactId>
-			<scope>compile</scope>
-		</dependency>
-		<dependency>
-			<groupId>com.gip.xyna</groupId>
 			<artifactId>xynautils-database</artifactId>
 			<scope>compile</scope>
 		</dependency>
@@ -137,11 +127,6 @@
 		<dependency>
 			<groupId>com.gip.xyna</groupId>
 			<artifactId>xynautils-misc</artifactId>
-			<scope>compile</scope>
-		</dependency>
-		<dependency>
-			<groupId>com.gip.xyna</groupId>
-			<artifactId>xynafactoryCLIGenerator</artifactId>
 			<scope>compile</scope>
 		</dependency>
 		<!-- Test -->
@@ -173,26 +158,6 @@
 		<dependency>
 			<groupId>com.oracle.database.jdbc</groupId>
 			<artifactId>ojdbc10</artifactId>
-			<scope>test</scope>
-		</dependency>
-		<dependency>
-			<groupId>com.gip.xyna</groupId>
-			<artifactId>OraclePersistenceLayer</artifactId>
-			<scope>test</scope>
-		</dependency>
-		<dependency>
-			<groupId>com.gip.xyna</groupId>
-			<artifactId>XynaLocalMemoryPersistenceLayer</artifactId>
-			<scope>test</scope>
-		</dependency>
-		<dependency>
-			<groupId>com.gip.xyna</groupId>
-			<artifactId>XynaMemoryPersistenceLayer</artifactId>
-			<scope>test</scope>
-		</dependency>
-		<dependency>
-			<groupId>com.gip.xyna</groupId>
-			<artifactId>XynaXMLShellPersistenceLayer</artifactId>
 			<scope>test</scope>
 		</dependency>
 	</dependencies>
