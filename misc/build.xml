@@ -37,7 +37,7 @@
 	<!-- ================================= 
 	         target: build             
 	        ================================= -->
-	<target name="build" depends="resolve">
+	<target name="build">
 		<buildJar destfile="${target.dir}/${project.name.local2}.jar" />
 	</target>
     

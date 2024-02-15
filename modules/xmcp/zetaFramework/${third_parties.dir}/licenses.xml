@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<licenseSummary>
+  <dependencies>
+    <dependency>
+      <groupId>org.antlr</groupId>
+      <artifactId>antlr4-runtime</artifactId>
+      <version>4.7.2</version>
+      <licenses>
+        <license>
+          <name>The BSD License</name>
+          <url>http://www.antlr.org/license.html</url>
+          <distribution>repo</distribution>
+          <file>the bsd license - license.html</file>
+        </license>
+      </licenses>
+    </dependency>
+  </dependencies>
+</licenseSummary>
